@@ -1,0 +1,7 @@
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 13\Clase13_Desafio\Clase13_Desafio\bin\Debug\Clase13_Desafio.exe.config
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 13\Clase13_Desafio\Clase13_Desafio\bin\Debug\Clase13_Desafio.exe
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 13\Clase13_Desafio\Clase13_Desafio\bin\Debug\Clase13_Desafio.pdb
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 13\Clase13_Desafio\Clase13_Desafio\obj\Debug\Clase13_Desafio.csprojAssemblyReference.cache
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 13\Clase13_Desafio\Clase13_Desafio\obj\Debug\Clase13_Desafio.csproj.CoreCompileInputs.cache
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 13\Clase13_Desafio\Clase13_Desafio\obj\Debug\Clase13_Desafio.exe
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 13\Clase13_Desafio\Clase13_Desafio\obj\Debug\Clase13_Desafio.pdb
